@@ -1,7 +1,7 @@
 {
   "name": "node-server-testing",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "covid stats",
   "main": "index.js",
   "scripts": {
     "test": "mocha '__tests__/*.test.js' --reporter mochawesome --recursive  --timeout 60000 --exit",
